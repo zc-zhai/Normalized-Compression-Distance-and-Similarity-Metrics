@@ -1,6 +1,6 @@
 # Normalized Compression Distance and Similarity Metrics
 This small project implements a method of malware detection and classification, proving to be efficient and accurate.<br>
-Based upon the concept of Normalized Compression Distance (NCD), it measures the similarity between target file and different zoos and further decide which zoo the file belongs to. Therefore, if the zoos are well-established, e.g. one zoo is the set of benign-ware while the other aggregates malware, this method can distinguish whether the file is malicious.<br>
+Based upon the concept of Normalized Compression Distance (NCD), it measures the similarity between target files and different zoos and further decide which zoo the file belongs to. Therefore, if the zoos are well-established, e.g. one zoo is the set of benign-ware while the other aggregates malware, this method can distinguish whether the file is malicious.<br>
 A similarity metric is also generated to visualize the results.<br>
 Written in Python.<br>
 Supported by `Anaconda`.<br>
